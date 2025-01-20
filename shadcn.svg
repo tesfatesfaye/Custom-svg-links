@@ -1,17 +1,7 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="460.000000pt" height="460.000000pt" viewBox="0 0 460.000000 460.000000"
- preserveAspectRatio="xMidYMid meet">
-
-<g transform="translate(0.000000,460.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M0 2300 l0 -2300 2300 0 2300 0 0 2300 0 2300 -2300 0 -2300 0 0
--2300z m3211 1257 c37 -25 57 -76 46 -118 -4 -14 -452 -469 -1046 -1063
-l-1039 -1039 -46 5 c-26 3 -55 13 -65 23 -28 24 -44 71 -37 102 5 19 327 349
-1029 1052 562 562 1036 1032 1052 1042 39 25 65 24 106 -4z m210 -1167 c40
--22 61 -98 39 -140 -14 -25 -1085 -1096 -1110 -1110 -42 -22 -118 -1 -140 39
--13 26 -13 77 2 104 13 26 1074 1089 1103 1105 25 14 80 15 106 2z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="575px" height="575px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g><path style="opacity:0.998" fill="#000000" d="M -0.5,-0.5 C 191.167,-0.5 382.833,-0.5 574.5,-0.5C 574.5,191.167 574.5,382.833 574.5,574.5C 382.833,574.5 191.167,574.5 -0.5,574.5C -0.5,382.833 -0.5,191.167 -0.5,-0.5 Z"/></g>
+<g><path style="opacity:1" fill="#fefffe" d="M 391.5,127.5 C 401.937,128.434 406.77,134.101 406,144.5C 320.222,232.278 233.722,319.445 146.5,406C 135.857,407.852 129.524,403.519 127.5,393C 128.317,391.51 129.15,390.01 130,388.5C 215.729,299.938 302.896,212.938 391.5,127.5 Z"/></g>
+<g><path style="opacity:1" fill="#fefffe" d="M 415.5,275.5 C 429.074,274.242 434.241,280.242 431,293.5C 385.833,340 340,385.833 293.5,431C 286.647,433.607 280.814,432.107 276,426.5C 275.133,422.044 275.466,417.711 277,413.5C 322.396,366.604 368.562,320.604 415.5,275.5 Z"/></g>
 </svg>
